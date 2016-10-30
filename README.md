@@ -18,6 +18,10 @@ Although there are no deadlines so ever, is necessary to have some kind of **val
 As Mr Daniel Gultsch said to us throught email *"yes my project is open for pull requests"*, there is no barrier stoping contribuitors to develop **new features** to the app or solve some bugs.
 But the code needs to be **approved by the owner of the project**,Daniel Gultsch by **pull request** in order to became part of the project code.
 
+<p align="center">
+  <img src="http://i.imgur.com/Qqv0FYZ.png">
+</p>
+
 ### Requirements and Features
 
 **Design principles**

@@ -2,13 +2,13 @@
 ###### by SIACS
 
 ### Introduction, Purpose and Description
-##### Conversations is an instant messaging Android application, which aims to connect people in a more secure and private way than other messaging applications.
+#### Conversations is an instant messaging Android application, which aims to connect people in a more secure and private way than other messaging applications.
 
 The application intends to keep the interface and design quality without sacrificing the security and privacy of the users. Also, they intend to use well established protocols **(XMPP)**, and avoid the use of Google Accounts, requiring the fewest permissions possible.
 
 **Feedback** is given through an XMPP group chat, with the developers and some users. Additionally, comments in Daniel Gultsch’s [Twitter account](https://twitter.com/inputmice) also allows the team to **better understand** the problems with the application, as well as improvements and new features.
 
-#### Requirements and Features
+### Requirements and Features
 
 **Design principles**
 - Be as **beautiful and easy** to use as possible without sacrificing security or privacy.

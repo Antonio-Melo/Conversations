@@ -8,6 +8,11 @@ The application intends to keep the interface and design quality without sacrifi
 
 **Feedback** is given through an XMPP group chat, with the developers and some users. Additionally, comments in Daniel Gultsch’s [Twitter account](https://twitter.com/inputmice) also allows the team to **better understand** the problems with the application, as well as improvements and new features.
 
+Although there are no deadlines so ever, is necessary to have some kind of validation in relation to the contributions work, in order to help the project to grow.
+
+As Mr Daniel Gultsch said to us throught email *"yes my project is open for pull requests"*, there is no barrier stoping contribuitors to develop new features to the app or solve some bugs.
+But the code needs to be approved by the owner of the project,Daniel Gultsch by pull request in order to became part of the project code.
+
 ### Requirements and Features
 
 **Design principles**

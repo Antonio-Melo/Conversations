@@ -43,6 +43,13 @@ But the code needs to be **approved by the owner of the project**,Daniel Gultsch
 - **Multiple accounts** / unified inbox.
 - Very **low impact** on battery life.
 
+### Use Cases
+
+<p align="center">
+  <img src="http://i.imgur.com/9CUcrYj.png">
+</p>
+
+
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

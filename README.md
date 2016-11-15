@@ -1,10 +1,11 @@
 # Conversations 
 ###### by SIACS
 
-### Software Architecture and the 4+1 Architectural View Model
 <p align="center">
   <img src="http://i.imgur.com/Bbe2WZk.png">
 </p>
+
+### Software Architecture and the 4+1 Architectural View Model
 
 **Software Architecture** documents the fundamental structures of a **software system**. These structures include the elements of the system, as well as **the relations between them**.
 

@@ -23,7 +23,7 @@ The **process** view is concerned with the communication between the system proc
   <img src="http://imgur.com/o5x9cGo.png">
 
 ##Logical View
-  <img src="http://imgur.com/a/UZjfB">
+  <img src="http://i.imgur.com/6WrGNuk.jpg">
 
 ### Group Contributions
 **Group 8 3MIEIC01**

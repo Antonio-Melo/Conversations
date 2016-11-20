@@ -27,6 +27,7 @@ The **process** view is concerned with the communication between the system proc
 
 ##Process view
 This view shows how processes interact while running the app.
+ <img src="http://i.imgur.com/3D6hvcI.png">
 
 ### Group Contributions
 **Group 8 3MIEIC01**

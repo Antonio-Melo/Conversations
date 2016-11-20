@@ -7,7 +7,7 @@
 
 ### Software Architecture and the 4+1 Architectural View Model
 
-**Software Architecture** documents the fundamental structures of a **software system**. These structures include the elements of the system, as well as **the relations between them**.
+**Software Architecture** documents the fundamental structures of a **software system**. These structures include the elements of the system, as well as **the relations between them**. The architectural pattern applied in this app is **Client-Server** (although the server implementation is not the Conversations' developers responsability). In this case, we have a XMPP server, in which the user must register first, and then our client (Conversation App) sends and receives information from the server, using the XMPP protocol.
 
 The **4+1 Architectural View Model** describes software systems from several **different view points**, such as **users**, **developers**, **project managers**, etc. The 4 views in this model are logical, development, process and physical view.
 

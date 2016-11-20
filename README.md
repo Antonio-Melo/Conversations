@@ -19,6 +19,10 @@ In the **physical** view we'll illustrate the system from the system engineer's 
 
 The **process** view is concerned with the communication between the system processes and their runtime behaviour.
 
+##Component Diagram
+  <img src="http://imgur.com/o5x9cGo.png">
+
+
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

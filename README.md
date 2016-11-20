@@ -20,14 +20,24 @@ In the **physical** view we'll illustrate the system from the system engineer's 
 The **process** view is concerned with the communication between the system processes and their runtime behaviour.
 
 ##Component View
+<p align="center">
   <img src="http://imgur.com/o5x9cGo.png">
+</p>
 
 ##Logical View
+<p align="center">
   <img src="http://i.imgur.com/6WrGNuk.jpg">
+</p>
 
 ##Process view
 This view shows how processes interact while running the app.
+<p align="center">
  <img src="http://i.imgur.com/3D6hvcI.png">
+ </p>
+##Deployment view
+<p align="center">
+<img src="http://i.imgur.com/kb7skPR.jpg">
+</p
 
 ### Group Contributions
 **Group 8 3MIEIC01**

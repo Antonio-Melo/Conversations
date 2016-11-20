@@ -37,7 +37,7 @@ This view shows how processes interact while running the app.
 ##Deployment view
 <p align="center">
 <img src="http://i.imgur.com/kb7skPR.jpg">
-</p
+</p>
 
 ### Group Contributions
 **Group 8 3MIEIC01**

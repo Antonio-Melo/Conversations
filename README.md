@@ -9,7 +9,13 @@
 
 
 ### Test Statistics and analytics
-The Conversations app doesn’t have **any tests implemented**. All testing seems to be based on usage. Anyone can report a bug, which will be included in the issues tab in GitHub.
+The Conversations app doesn’t have **any tests implemented**. We can see in the image below that the test coverage is 0% in all packages in the code.
+
+<p align="center">
+  <img src="http://i.imgur.com/uYxSLwZ.png">
+</p>
+
+All testing seems to be based on usage. Anyone can report a bug, which will be included in the issues tab in GitHub.
 
 Knowing the importance of testing your code, we think there should be a **more formal and quantifiable** way to test the app. And even though the tests should be written before the code itself, we recommend the implementation of **automated** tests.
 
@@ -18,10 +24,6 @@ We also think it’s best to start developing any new features this way. Because
 The whole process of thinking up the tests will also ensure that the feature is well thought out, which in turn will result in smaller implementation time.
 For these tests we recommend **unit** testing followed by some **white-box** testing, since it’s a straightforward way of testing code and the developers of Conversations don’t seem to want to spend a lot of time on tests.
 
-
-<p align="center">
-  <img src="http://i.imgur.com/uYxSLwZ.png">
-</p>
 
 ### Code bugs
   After testing the app we found some bugs in the apllication.

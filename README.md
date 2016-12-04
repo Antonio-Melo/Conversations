@@ -37,11 +37,14 @@ Even though the font is **slightly** changed in other parts of the app, the defi
 </p>
 #### File Sender
 Most of the times we tried to send a **image** or a **file** to each others either **fails** or takes ages to process the file.
-
-The app does **not** support all images extencions. Only supports the following: webp, jpeg, jpg, png, jpe.
 <p align="center">
   <img src="http://i.imgur.com/JyyQaz9.png">
-</p>
+</p> 
+The app does **not** support all images extencions. Only supports the following: webp, jpeg, jpg, png, jpe.
+So if we try to attach a **GIF** it won't be able to send.
+After searching for a way to solve this bug we found that a [List of Stings](https://github.com/Antonio-Melo/Conversations/blob/master/src/main/java/eu/siacs/conversations/entities/Transferable.java) saves all the **VALID_IMAGE_EXTENSIONS** where some fundamental image extensions are missing.
+We tried to add other images extensions to the app, but still not worked, after some search we conclued that the problem must be in the configuration of the xmpp connection where your lack of knowledge does not allows to implement it correctly.
+
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

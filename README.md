@@ -33,8 +33,12 @@ Even though the font is **slightly** changed in other parts of the app, the defi
   <img src="http://i.imgur.com/Wu8DeKc.png">
   <img src="http://i.imgur.com/HR2lHg9.png">
 </p>
-####
-
+#### File Sender
+Most of the times we tried to send a image or a file to each others either **fails** or takes ages to process the file.
+The app does **not** support all images extencions. Only supports the following: webp, jpeg, jpg, png, jpe.
+<p align="center">
+  <img src="http://i.imgur.com/JyyQaz9.png">
+</p>
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

@@ -25,6 +25,11 @@ For these tests we recommend **unit** testing followed by some **white-box** tes
 
 ### Code bugs
 
+<p align="center">
+  <img src="http://i.imgur.com/i2YHxup.jpg">
+  <img src="http://i.imgur.com/zPwUbpM.jpg">
+</p>
+
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

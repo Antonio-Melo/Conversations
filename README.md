@@ -30,6 +30,12 @@ For these tests we recommend **unit** testing followed by some **white-box** tes
   <img src="http://i.imgur.com/HR2lHg9.png">
 </p>
 
+<p align="center">
+  <img src="http://i.imgur.com/DLUpbRY.png">
+  <img src="http://i.imgur.com/zljX9Eu.png">
+  <img src="http://i.imgur.com/qAKDGGn.png">
+</p>
+
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

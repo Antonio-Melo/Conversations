@@ -23,6 +23,15 @@ Conversations’ package structure is well organized, having a package for all t
 
 #### Understandability
 There is no documentation of Conversation’s code. Comments are mostly used to annotate where there are bugs and their reason, or where there must be changes. “strb” was the only user which contributed to documentation, having inserted Javadoc comments on some of the functions he created on SQLiteAxolotlStore.java. Even if the variable/class names are chosen in a way to help the understanding of its functionalities, it is very hard for someone new to understand completely a hunk of code without reading and analysing through it.
+In matters of understandability, Conversations has very much to improve.
+
+#### Heterogeneity
+In Conversations, there are a few methods and technologies that are used. 
+In the first place, for encryption, they use the Double Ratchet Algorithm(Axolotl Ratchet), an algorithm created by Open Whisper Systems, a company which provides a trusted library (libaxolotl) used in Conversations, which is also used in apps such as Facebook Messenger and Whatsapp. They also use Open PGP, an encryption protocol used in email services such as Apple Mail, Outlook and ThunderBird, as well as Bouncy Castle, a collection of API’s of encryption.
+Secondly, Conversations use Apache to establish the connections to the servers, a software that is widely used, and use MiniDNS, a minimal DNS client for Android (not very known, whose testing code coverage is 67%).
+Also, to do the XML parsing, this app uses XMLPull, which is recommended by Google.
+However, there are some libraries used in the UI that are from independent users, and are not so trustworthy.
+So, because Conversations uses diverse external tools which are considered trustworthy, we can say that, in matters of heterogeneity, this app performs well.
 
 
 ### Test Statistics and analytics

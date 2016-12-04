@@ -26,8 +26,8 @@ For these tests we recommend **unit** testing followed by some **white-box** tes
 ### Code bugs
 
 <p align="center">
-  <img src="http://i.imgur.com/i2YHxup.jpg">
-  <img src="http://i.imgur.com/zPwUbpM.jpg">
+  <img src="http://i.imgur.com/Wu8DeKc.png">
+  <img src="http://i.imgur.com/HR2lHg9.png">
 </p>
 
 ### Group Contributions

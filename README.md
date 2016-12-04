@@ -24,8 +24,8 @@ For these tests we recommend **unit** testing followed by some **white-box** tes
 </p>
 
 ### Code bugs
-After testing the app we found some bugs in the apllication.
-## Bigger Font
+  After testing the app we found some bugs in the apllication.
+#### Bigger Font
 These feature supposedly allows the user to chooise a **bigger** font that will be apllied in **every component** of the app.
 
 Even though the font is **slightly** changed, the definition menu **remains the same**.
@@ -33,7 +33,7 @@ Even though the font is **slightly** changed, the definition menu **remains the 
   <img src="http://i.imgur.com/Wu8DeKc.png">
   <img src="http://i.imgur.com/HR2lHg9.png">
 </p>
-## Background color
+#### Background color
 <p align="center">
   <img src="http://i.imgur.com/DLUpbRY.png">
   <img src="http://i.imgur.com/zljX9Eu.png">

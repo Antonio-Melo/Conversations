@@ -18,6 +18,11 @@ We also think it’s best to start developing any new features this way. Because
 The whole process of thinking up the tests will also ensure that the feature is well thought out, which in turn will result in smaller implementation time.
 For these tests we recommend **unit** testing followed by some **white-box** testing, since it’s a straightforward way of testing code and the developers of Conversations don’t seem to want to spend a lot of time on tests.
 
+
+<p align="center">
+  <img src="http://i.imgur.com/uYxSLwZ.png">
+</p>
+
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

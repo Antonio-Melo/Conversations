@@ -23,6 +23,8 @@ For these tests we recommend **unit** testing followed by some **white-box** tes
   <img src="http://i.imgur.com/uYxSLwZ.png">
 </p>
 
+### Code bugs
+
 ### Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

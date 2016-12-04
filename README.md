@@ -6,6 +6,23 @@
 </p>
 
 ### Software Testability and Reviews
+In terms of testability, Conversations is very hard to analyse due to the lack of unit testing. However, by analysing the code itself, we managed to check these aspects:
+
+#### Observability
+In terms of observability, Conversations is not good, mainly because of the lack of unit testing. By not having unit tests, the only way to observe test results in a component is by printing on screen the variables tested, or by checking if the interface is correctly displayed, or by using the debug mode.
+
+#### Controllability
+In terms of controllability, the most controllable elements are the ones relative to the Conversations’ original classes, such as the classes found in generator, entities, parser, persistance, services, ui, utils and xml.
+The classes in xmpp package (and the class XmppConnectionService in services) are still very controllable, with the exception that some of its functionalities depend on the XMPP server the user is registered in, and the output/state of the server is not controllable by the Conversations developers, leading to a little decrease in controllability on those elements.
+
+#### Isolateability
+In terms of isolateability, all the components which connect to the XMPP server cannot be isolated, since their objetive is to test the connection with the server, and isolating those components from the server would be meaningless. All the other components, due to good division in small modules, have good isolateability.
+
+#### Separation of Concerns
+Conversations’ package structure is well organized, having a package for all the main components in the program (encryption, parsing, generation of messages/etc, xmpp protocol functions), and having subpackages in the components which have submodules, as we can see,for example, in xmpp package. So, we believe that Conversations has a good separation of concerns, having no further improvements to be made in this area.
+
+#### Understandability
+There is no documentation of Conversation’s code. Comments are mostly used to annotate where there are bugs and their reason, or where there must be changes. “strb” was the only user which contributed to documentation, having inserted Javadoc comments on some of the functions he created on SQLiteAxolotlStore.java. Even if the variable/class names are chosen in a way to help the understanding of its functionalities, it is very hard for someone new to understand completely a hunk of code without reading and analysing through it.
 
 
 ### Test Statistics and analytics

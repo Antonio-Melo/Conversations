@@ -33,12 +33,7 @@ Even though the font is **slightly** changed, the definition menu **remains the 
   <img src="http://i.imgur.com/Wu8DeKc.png">
   <img src="http://i.imgur.com/HR2lHg9.png">
 </p>
-#### Background color
-<p align="center">
-  <img src="http://i.imgur.com/DLUpbRY.png">
-  <img src="http://i.imgur.com/zljX9Eu.png">
-  <img src="http://i.imgur.com/qAKDGGn.png">
-</p>
+####
 
 ### Group Contributions
 **Group 8 3MIEIC01**

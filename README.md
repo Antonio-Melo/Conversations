@@ -26,9 +26,9 @@ For these tests we recommend **unit** testing followed by some **white-box** tes
 ### Code bugs
   After testing the app we found some bugs in the apllication.
 #### Bigger Font
-These feature supposedly allows the user to chooise a **bigger** font that will be apllied in **every component** of the app.
+These feature supposedly allows the user to choose a **bigger** font that will be apllied in **every component** of the app.
 
-Even though the font is **slightly** changed, the definition menu **remains the same**.
+Even though the font is **slightly** changed in other parts of the app, the definition menu **remains the same**.
 <p align="center">
   <img src="http://i.imgur.com/Wu8DeKc.png">
   <img src="http://i.imgur.com/HR2lHg9.png">

@@ -43,8 +43,8 @@ Most of the times we tried to send a **image** or a **file** to each others eith
 The app does **not** support all images extencions. Only supports the following: webp, jpeg, jpg, png, jpe.
 So if we try to attach a **GIF** it won't be able to send.
 
-After searching for a way to solve this bug we found that a [List of Stings](https://github.com/Antonio-Melo/Conversations/blob/master/src/main/java/eu/siacs/conversations/entities/Transferable.java) saves all the **VALID_IMAGE_EXTENSIONS** where some fundamental image extensions are missing.
-We tried to add other images extensions to the app, but still not worked, after some search we conclued that the problem must be in the configuration of the xmpp connection where your lack of knowledge does not allows to implement it correctly.
+After searching for a way to solve this bug we found that a [List of Stings](https://github.com/Antonio-Melo/Conversations/blob/master/src/main/java/eu/siacs/conversations/entities/Transferable.java) saves all the **VALID_IMAGE_EXTENSIONS** where some fundamental extensions are missing.
+We tried to add other images extensions to the app, but still not worked, after some search we conclueded that the problem must be in the configuration of the xmpp connection where your lack of knowledge does not allows us to implement it correctly.
 
 ### Group Contributions
 **Group 8 3MIEIC01**

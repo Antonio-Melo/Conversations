@@ -8,9 +8,9 @@
 ## Software Maintainability
 ###### SIG metrics
 
-Software Maintainability in software engineering is described as a process to improve software already made.
-This process allows the correction and prevention of bugs, system changes and new features required.
-This provides changes to the code that will not be visible in the comportament of the software, but will allow in the future that new features are implemented more easily and with less costs.
+Software Maintainability in software engineering is described as a process to **improve** software already made.
+This process allows the correction and **prevention** of bugs, system changes and new features required.
+This provides changes to the code that will **not** be visible in the comportament of the software, but will allow in the future that new features are implemented more **easily** and with **less** costs.
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/Antonio-Melo/Conversations)](https://bettercodehub.com)
 <p align="center">
@@ -18,17 +18,17 @@ This provides changes to the code that will not be visible in the comportament o
 </p>
 
 In order to evaluate the quality of **Conversations**, we used [Better Code Hub](https://bettercodehub.com). This tool allows us to determinate factors like readability and anticipate/minimize future problems(**Future-proofing**).
-A list of points is analized in the code:
-- Write Short Units of Code
-- Write Simple Units of Code
-- Write Code Once
-- Keep Unit Interfaces Small
-- Separate Concerns in Modules
-- Couple Architecture Components Loosely
-- Keep Architecture Components Balanced
-- Keep Your Codebase Small
-- Automate Tests
-- Write Clean Code
+A list of points is **analized** in the code:
+- Write **Short** Units of Code
+- Write **Simple** Units of Code
+- Write Code **Once**
+- Keep Unit Interfaces **Small**
+- **Separate** Concerns in Modules
+- Couple Architecture Components **Loosely**
+- Keep Architecture Components **Balanced**
+- Keep Your **Codebase** Small
+- Automate **Tests**
+- Write **Clean** Code
 
 
 

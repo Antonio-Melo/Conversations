@@ -5,7 +5,7 @@
   <img src="http://i.imgur.com/Bbe2WZk.png">
 </p>
 
-### Software Maintainability
+## Software Maintainability
 ###### SIG metrics
 [![BCH compliance](https://bettercodehub.com/edge/badge/Antonio-Melo/Conversations)](https://bettercodehub.com)
 <p align="center">
@@ -13,11 +13,11 @@
 </p>
 
 
-### Report evolution process
+## Report evolution process
 
-### Link to pull request
+## Link to pull request
 
-### Group Contributions
+## Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%
 - Daniela Sá 20%

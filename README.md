@@ -7,6 +7,7 @@
 
 ### Software Maintainability
 ###### SIG metrics
+[![BCH compliance](https://bettercodehub.com/edge/badge/Antonio-Melo/Conversations)](https://bettercodehub.com)
 <p align="center">
   <img src="http://i.imgur.com/BqSfCtB.png">
 </p>

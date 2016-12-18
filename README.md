@@ -12,6 +12,25 @@
   <img src="http://i.imgur.com/BqSfCtB.png">
 </p>
 
+<p align="center">
+  <img src="http://i.imgur.com/likXGlC.png">
+</p>
+<p align="center">
+  <img src="http://i.imgur.com/jhARnSF.png">
+</p>
+<p align="center">
+  <img src="http://i.imgur.com/x0crsHT.png">
+</p>
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
+</p>
+
 
 ## Report evolution process
 

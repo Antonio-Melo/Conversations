@@ -7,6 +7,11 @@
 
 ## Software Maintainability
 ###### SIG metrics
+
+Software Maintainability in software engineering is described as a process improve software already made.
+This process allows the correction and prevention of bugs, system changes and new features required.
+This provides changes to the code that will not be visible in the comportament of the software, but will allow in the future that new features are implemented more easily and with less costs.
+
 [![BCH compliance](https://bettercodehub.com/edge/badge/Antonio-Melo/Conversations)](https://bettercodehub.com)
 <p align="center">
   <img src="http://i.imgur.com/BqSfCtB.png">

@@ -7,6 +7,9 @@
 
 ### Software Maintainability
 ###### SIG metrics
+<p align="center">
+  <img src="http://i.imgur.com/BqSfCtB.png">
+</p>
 
 
 ### Report evolution process

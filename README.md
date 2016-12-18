@@ -12,6 +12,21 @@
   <img src="http://i.imgur.com/BqSfCtB.png">
 </p>
 
+In order to evaluate the quality of **Conversations**, we used [Better Code Hub](https://bettercodehub.com). This tool allows us to determinate factors like readability and anticipate/minimize future problems(**Future-proofing**).
+A list of points is analized in the code:
+- Write Short Units of Code
+- Write Simple Units of Code
+- Write Code Once
+- Keep Unit Interfaces Small
+- Separate Concerns in Modules
+- Couple Architecture Components Loosely
+- Keep Architecture Components Balanced
+- Keep Your Codebase Small
+- Automate Tests
+- Write Clean Code
+
+
+
 <p align="center">
   <img src="http://i.imgur.com/uN1ReD5.png">
 </p>

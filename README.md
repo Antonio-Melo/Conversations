@@ -38,6 +38,11 @@ A list of points is **analized** in the code:
 <p align="center">
   <img src="http://i.imgur.com/icQQuUN.png">
 </p>
+
+
+Conversations has alot of methods that require a long list of arguments, as we see above.
+The amount of arguments should be smaller, in order to make the use of the same more intuitive.
+We recomend to group the information in appropriate structures becaming the code more organized an readable.
 <p align="center">
   <img src="http://i.imgur.com/x0crsHT.png">
 </p>

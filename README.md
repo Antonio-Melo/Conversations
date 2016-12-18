@@ -13,19 +13,19 @@
 </p>
 
 <p align="center">
-  <img src="http://i.imgur.com/likXGlC.png">
+  <img src="http://i.imgur.com/uN1ReD5.png">
+</p>
+<p align="center">
+  <img src="http://i.imgur.com/icQQuUN.png">
 </p>
 <p align="center">
   <img src="http://i.imgur.com/x0crsHT.png">
 </p>
 <p align="center">
-  <img src="">
+  <img src="http://i.imgur.com/AIadPDs.png">
 </p>
 <p align="center">
-  <img src="">
-</p>
-<p align="center">
-  <img src="">
+  <img src="http://i.imgur.com/yYD7Tpn.png">
 </p>
 
 

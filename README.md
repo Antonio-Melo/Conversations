@@ -38,7 +38,7 @@ A list of points is **analized** in the code:
 <p align="center">
   <img src="http://i.imgur.com/icQQuUN.png">
 </p>
-The first two points that Conversations fails are very **alike**.
+The first two points were Conversations fails are very **alike**.
 This was one of the major problems that we notice when **analysing** the code.
 Methods are very **long** and **not clear** at first sight.
 Making the methods more **short** and **simple** will make units **easier** to modify and test.
@@ -55,6 +55,10 @@ We recomend to group the information in **appropriate structures** becaming the 
 <p align="center">
   <img src="http://i.imgur.com/AIadPDs.png">
 </p>
+In this topic the objective is to "keep the codebase loosely coupled, as it makes it easier to minimize the consequences of changes".
+We can see that we have large modules that have more than 10/30 calls making them more "responsable" for the all code.
+
+
 <p align="center">
   <img src="http://i.imgur.com/yYD7Tpn.png">
 </p>

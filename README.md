@@ -60,7 +60,7 @@ We recomend to group the information in **appropriate structures** becaming the 
 </p>
 The last point were Conversations fail is in **automate tests**. The project has none, not even a single line of code covered.
 We think that is a important problem that should be solved very soon.
-This could show the solution to futere problems.
+This could show the solution to future problems.
 
 
 ## Report evolution process

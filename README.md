@@ -68,11 +68,11 @@ This could show the solution to futere problems.
  
  When we were using the app, we noticed that it was hard to identify each conversation only by the contact name, and seeing all contacts with the same color (the app interface was all in shades of green) wasn't visually atractive. So we thought that giving the option for the user to apply a custom color to a certain contact would make it easier to differentiate each conversation, as giving more "life" to the app's interface.
  
- ##### Why we decided to evolve that particular feature?
+##### Why we decided to evolve that particular feature?
  
  We chose to evolve that particular feature because, due to our limited knowledge in programming with Android and, mostly, with XMPP servers, we thought that our best option was to try and implement something that would change the visual aspect of the app. So, after analysing the app's code we found out that we could change the interface color and, further, we could apply a different color to each contact, which is a feature that the app didn't have before and it was something we could really do.
  
- ##### How did we locate the parts in the source code that needed to be modified?
+##### How did we locate the parts in the source code that needed to be modified?
  
 ## Link to pull request
 

@@ -55,8 +55,8 @@ We recomend to group the information in **appropriate structures** becaming the 
 <p align="center">
   <img src="http://i.imgur.com/AIadPDs.png">
 </p>
-In this topic the objective is to "keep the codebase loosely coupled, as it makes it easier to minimize the consequences of changes".
-We can see that we have large modules that have more than 10/30 calls making them more "responsable" for the all code.
+In this topic the objective is to "keep the codebase loosely coupled, as it makes it easier to **minimize the consequences of changes**".
+We can see that we have **large modules** that have more than **10/30** calls making them more "responsable" for the all code.
 
 
 <p align="center">

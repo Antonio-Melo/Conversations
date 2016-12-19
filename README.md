@@ -80,6 +80,8 @@ This could show the solution to future problems.
  
 ## Link to pull request
 
+[Pull request](https://github.com/siacs/Conversations/pull/2193)
+
 ## Group Contributions
 **Group 8 3MIEIC01**
 - António Melo 20%

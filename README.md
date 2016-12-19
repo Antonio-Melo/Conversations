@@ -78,6 +78,8 @@ This could show the solution to future problems.
  
 ##### How did we locate the parts in the source code that needed to be modified?
  
+ Locating the important parts of the source was complicated. After importing the source code to Android Studio, we ran debug mode, and used breakpoints to check if the functions we were analysing were being called when we thought they were called, and if they were used for the purpose we thought they were. A lot of retries were needed to identify the functions needed, but the functions' and classes' names helped a lot in giving clues about their functionality and their usage, and after some time, we could reproduce the app code style, and add our feature.
+ 
 ## Link to pull request
 "In order to complete an University Project, I've added the option, in the Conversation Activity, to change the secondary background color.
 

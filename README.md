@@ -79,7 +79,13 @@ This could show the solution to future problems.
 ##### How did we locate the parts in the source code that needed to be modified?
  
 ## Link to pull request
+"In order to complete an University Project, I've added the option, in the Conversation Activity, to change the secondary background color.
 
+- It only has the default("grey") color + blue + red, and they change to a darker tone if the theme is set to "Dark".
+- The color type keeps the same even if the theme is changed or larger fonts mode is activated.
+- The color keeps even if the app is restarted.
+This was done because there was an issue ( #2110 ) mentioning the possibility of background pictures being added to the conversations.
+I did not have the time to try to add images, but I could add the option to choose the color, so I did it."
 [Pull request](https://github.com/siacs/Conversations/pull/2193)
 
 ## Group Contributions
